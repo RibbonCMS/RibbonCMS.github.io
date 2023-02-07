@@ -1,4 +1,4 @@
 {
-    "site_description": "# site_description here\n- Can use markdown",
+    "site_description": "# 「RibbonCMS」とは？\nGitHub の Issue を用いた CMS です． Issue にブログ記事などが書け， GitHub Pages から簡単に公開できます．<br>\n![image](https://user-images.githubusercontent.com/55144709/217168027-6630a043-9b9e-446a-a74b-177afefe263d.png)\n![image](https://user-images.githubusercontent.com/55144709/217168202-d144e9eb-270e-4d5e-857f-ccb859e1409d.png)",
     "site_header_title": "RibbonCMS"
 }
