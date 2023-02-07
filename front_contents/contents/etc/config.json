@@ -1,6 +1,6 @@
 {
-    "blog_title": "Simple Blog Template",
-    "site_introduction": "This is template of RibbonCMS",
+    "blog_title": "RibbonCMS",
+    "site_introduction": "GitHub Issues driven Contents M@nagement System",
     "copylight_name": "ShotaroKataoka",
     "copylight_url": "https://github.com/ShotaroKataoka",
     "issues_page_url": "https://github.com/RibbonCMS/RibbonCMS.github.io/issues",
@@ -14,7 +14,7 @@
     "sns": [
         {
             "name": "GitHub",
-            "url": null
+            "url": "https://github.com/RibbonCMS/RibbonCMS/issues"
         }
     ]
 }
