@@ -1,4 +1,4 @@
 {
-    "site_description": "# 「RibbonCMS」とは？\nGitHub の Issue を用いた CMS です． Issue にブログ記事などが書け， GitHub Pages から簡単に公開できます．<br>\n![image](https://user-images.githubusercontent.com/55144709/217168027-6630a043-9b9e-446a-a74b-177afefe263d.png)\n![image](https://user-images.githubusercontent.com/55144709/217168202-d144e9eb-270e-4d5e-857f-ccb859e1409d.png)",
+    "site_description": "# 「RibbonCMS」とは？\n\nRibbonCMS とは GitHub Issues の操作だけでホームページを管理・更新するコンテンツ管理システムです。\nこのサイトも RibbonCMS を使って更新しています。\n<br>\nRibbonCMS は以下の特徴を持ちます。\n\n- GitHub Issues で記事の執筆ができる。\n- GitHub Issues でサイト設定の管理ができる。\n- GitHub Issues で固定ページ内容の編集ができる。\n- 「Issue からのコンテンツ生成」「コンテンツ管理」「コンテンツからのサイト生成（フロントエンド）」の機能が分離している。\n    - フロントエンドを自作したり、他の人が作ったテンプレートを使ったりなど容易にカスタマイズできる。\n    - Issue からコンテンツを生成する機能も部分的にプラグインを導入できるようにしているのでカスタマイズ可能。\n\n![image](https://user-images.githubusercontent.com/55144709/217168027-6630a043-9b9e-446a-a74b-177afefe263d.png)\n![image](https://user-images.githubusercontent.com/55144709/217168202-d144e9eb-270e-4d5e-857f-ccb859e1409d.png)",
     "site_header_title": "RibbonCMS"
 }
