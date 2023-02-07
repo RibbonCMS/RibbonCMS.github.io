@@ -4,9 +4,10 @@ description: '1. 新しい空の **private** リポジトリを作成します�
   をセットアップするためのシェルスクリプトです）:  ``` $ curl h...'
 posted_at: 2023-02-07 07:42:12+00:00
 slug: '5'
-tag_ids: []
+tag_ids:
+- 5125441130
 title: RibbonCMS のセットアップ
-updated_at: ''
+updated_at: 2023-02-07 08:05:20+00:00
 
 ---
 1. 新しい空の **private** リポジトリを作成します（ public リポジトリで作成してしまうと，誰でも CMS へアクセスできてしまいます）
