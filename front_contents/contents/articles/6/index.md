@@ -3,9 +3,10 @@ description: '## 記事の投稿  1. Issues ページから Article テンプレ
   3. Issue の編集を完了し， `publish` ラベルをつけます  ラベルをつけると GitHub Actions が実行されます．実行には 1 分程度かかります．実行完了後，サイトにアクセスし，投稿した記事が表示されていれば...'
 posted_at: 2023-02-07 07:57:35+00:00
 slug: '6'
-tag_ids: []
+tag_ids:
+- 5125441130
 title: 記事の投稿/編集/削除
-updated_at: ''
+updated_at: 2023-02-07 08:11:27+00:00
 
 ---
 ## 記事の投稿
