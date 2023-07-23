@@ -3,5 +3,10 @@
         "name": "star",
         "color": "006b75",
         "description": "Require in FunctionalBlogTemplate (For pinned articles)"
+    },
+    "5766699763": {
+        "name": "for-writer",
+        "color": "e99695",
+        "description": ""
     }
 }
