@@ -1,1 +1,10 @@
-{}
+{
+    "https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax": {
+        "url_domain": "docs.github.com",
+        "url_domain_link": "https://docs.github.com",
+        "title": "基本的な書き方とフォーマットの構文 - GitHub Docs",
+        "description": null,
+        "image_url": "/static/images/external_ogp//513a2fe403a179cd13970f0e76bdc69e.webp",
+        "site_name": "GitHub Docs"
+    }
+}
