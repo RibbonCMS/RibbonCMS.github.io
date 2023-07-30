@@ -6,7 +6,7 @@ slug: '8'
 tag_ids:
 - 5766700229
 title: セットアップで実行している `tie.sh` は何をやっているのか？
-updated_at: ''
+updated_at: 2023-07-30 05:42:21+00:00
 
 ---
 この記事では RibbonCMS の初回セットアップ実行している `tie.sh` というシェルスクリプトについて、何をやっているのかをコードベースで解説します（実は、初回セットアップのほとんどはこの `tie.sh` で行われています）。
@@ -19,7 +19,9 @@ updated_at: ''
 
 `tie.sh` を実行する前にまず private リポジトリの新規作成と `tie.sh` のダウンロードが必要です。次のセットアップページをもとに `tie.sh` を実行する前まで手順を完了させてください:
 
-> [RibbonCMS のセットアップ | RibbonCMS](https://ribboncms.github.io/articles/5)
+<!-- [RibbonCMS のセットアップ | RibbonCMS](https://ribboncms.github.io/articles/5) -->
+
+#5 
 
 ## STEP 1 ｜ RibbonCMS/RibbonCMS の複製
 
