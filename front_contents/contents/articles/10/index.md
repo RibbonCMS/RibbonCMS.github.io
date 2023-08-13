@@ -6,7 +6,7 @@ slug: '10'
 tag_ids:
 - 5766700229
 title: RibbonCMS のフロントエンドを自作する
-updated_at: 2023-08-13 17:14:30+00:00
+updated_at: 2023-08-13 18:39:58+00:00
 
 ---
 RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7) を利用する以外に自作することもできます。
@@ -49,7 +49,7 @@ Would you like to use App Router? (recommended) No   # Webサイトを作るの�
 mv ./<PROJECT_DIR>/ ./src/
 ```
 
-### `next.config.js`に加える変更
+### next.config.jsに加える変更
 
 `next.config.js` の `basePath` に `lib/consts.js` で定義されている `basePath` を指定する必要があります（ `lib/consts.js` は sideM で自動生成されます）。
 
@@ -66,7 +66,7 @@ const nextConfig = {
 
 ### 固定ページを作る場合の推奨仕様
 
-sideM では、固定ページで利用する JSON ファイルは`contents/fixed`へコピーされる仕様になっています（ [→ 該当箇所](https://github.com/RibbonCMS/RibbonCMS_sideM/blob/main/models/consts.py#L96) ）。
+sideM では、固定ページで利用する JSON ファイルは`contents/fixed/`へコピーされる仕様になっています（ [→ 該当箇所](https://github.com/RibbonCMS/RibbonCMS_sideM/blob/main/models/consts.py#L96) ）。
 
 VanillaTemplate では、固定ページを作成しやすいよう下記の仕様に沿って実装を進めています。0 からフロントエンドを自作する場合もこの仕様に沿って実装することをオススメします。
 
