@@ -1,16 +1,14 @@
 ---
-description: '# RibbonCMS のフロントエンドを自作する  RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7)
-  を利用する以外に自作することもできます。  ## VanillaTemplate をベースにしよう  その場合、次の [RibbonCMS/VanillaTemplate](https://gi...'
+description: 'RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7)
+  を利用する以外に自作することもできます。  ## VanillaTemplate をベースにしよう  その場合、次の [RibbonCMS/VanillaTemplate](https://github.com/RibbonCMS/VanillaT...'
 posted_at: 2023-08-13 17:05:24+00:00
 slug: '10'
 tag_ids:
 - 5766700229
 title: RibbonCMS のフロントエンドを自作する
-updated_at: 2023-08-13 17:09:55+00:00
+updated_at: 2023-08-13 17:14:30+00:00
 
 ---
-# RibbonCMS のフロントエンドを自作する
-
 RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7) を利用する以外に自作することもできます。
 
 ## VanillaTemplate をベースにしよう
