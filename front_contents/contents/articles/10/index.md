@@ -1,14 +1,16 @@
 ---
-description: 'RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7)
-  を利用する以外に自作することもできます。  ## VanillaTemplate をベースにしよう  その場合、次の [RibbonCMS/VanillaTemplate](https://github.com/RibbonCMS/VanillaT...'
+description: '# RibbonCMS のフロントエンドを自作する  RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7)
+  を利用する以外に自作することもできます。  ## VanillaTemplate をベースにしよう  その場合、次の [RibbonCMS/VanillaTemplate](https://gi...'
 posted_at: 2023-08-13 17:05:24+00:00
 slug: '10'
 tag_ids:
 - 5766700229
 title: RibbonCMS のフロントエンドを自作する
-updated_at: ''
+updated_at: 2023-08-13 17:09:55+00:00
 
 ---
+# RibbonCMS のフロントエンドを自作する
+
 RibbonCMS では用意されている [フロントエンドテンプレート](https://ribboncms.github.io/articles/7) を利用する以外に自作することもできます。
 
 ## VanillaTemplate をベースにしよう
@@ -19,7 +21,13 @@ VanillaTemplate は RibbonCMS の機能のみを実装し、デザイン面は�
 
 > [RibbonCMS/VanillaTemplate](https://github.com/RibbonCMS/VanillaTemplate)
 
-## 0 から作りたい場合
+## RibbonCMS 開発用リポジトリを利用する
+
+RibbonCMS の開発環境を簡単に構築できる [develop-RibbonCMS](https://github.com/RibbonCMS/develop-RibbonCMS) というリポジトリを用意しています。RibbonCMS の開発を行う際はこのリポジトリを用いて開発環境を構築することをオススメします。
+
+使い方は[リポジトリの README](https://github.com/RibbonCMS/develop-RibbonCMS#readme)をご確認ください。
+
+## 0 からフロントエンドを作りたい
 
 VanillaTemplate を使わず 0 からフロントエンドを自作したい場合は次のポイントに注意してください。
 
